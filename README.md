@@ -1,4 +1,5 @@
 # KitCat
+The app is developed using SwiftUI. 
 
 This app displays images to a user along with a list of classifications of what the computer thinks the images are. A progress bar which shows how likely each classification is and a button that lets the user cycle through the images are provided in the app. The goal is to use Machine Learning to classify the images. 
 
