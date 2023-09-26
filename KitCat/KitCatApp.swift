@@ -11,7 +11,7 @@ import SwiftUI
 struct KitCatApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(model: AnimalModel())
         }
     }
 }
